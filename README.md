@@ -105,7 +105,3 @@ Feel free to fork this repository, make changes, and submit a pull request. Feed
 ## Acknowledgements
 - Dataset provided by ULB’s Machine Learning Group.
 - Thanks to the Python community for tools like **Scikit-learn**, **Seaborn**, and **Matplotlib**.
-
---- 
-
-This README provides a concise overview, suitable for beginners and professionals alike! 🚀
